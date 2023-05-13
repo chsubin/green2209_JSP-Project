@@ -12,7 +12,7 @@
 <table>
   <tr>
     <td rowspan="3">
-      <img src="https://user-images.githubusercontent.com/109835921/237872540-481c3246-7a50-4900-9095-f3faab5ede88.gif" width="60%"></img>
+      <img src="https://user-images.githubusercontent.com/109835921/237872540-481c3246-7a50-4900-9095-f3faab5ede88.gif" width="100%"></img>
     </td>
     <th> 개발기간</th>
     <td>2022.12.12 ~ 2022.12.22</td>
