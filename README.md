@@ -1,9 +1,9 @@
 
 <h1>호텔예약 프로그램</h1>
 
-<img src="https://user-images.githubusercontent.com/109835921/209079582-d27596ea-16bd-4b57-b45e-4d4ac14dc57b.png"  width="90%"></img>
+<img src="https://user-images.githubusercontent.com/109835921/209079582-d27596ea-16bd-4b57-b45e-4d4ac14dc57b.png"  width="100%"></img>
 
-<img src="https://user-images.githubusercontent.com/109835921/209080648-816711ed-864e-4148-8f08-ea12941ba27c.png"  width="90%"></img>
+<img src="https://user-images.githubusercontent.com/109835921/209080648-816711ed-864e-4148-8f08-ea12941ba27c.png"  width="100%"></img>
 
 
 
