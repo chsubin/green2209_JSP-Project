@@ -9,7 +9,6 @@
 
 <img src="https://user-images.githubusercontent.com/109835921/237872540-481c3246-7a50-4900-9095-f3faab5ede88.gif" width="60%"></img>
 
-<hr/>
 <table>
   <tr>
     <th> 개발기간</th>
