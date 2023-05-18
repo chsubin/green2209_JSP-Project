@@ -39,7 +39,7 @@
 
 <br/>
 
-## 데이터베이스
+## 데이터베이스 설계
 
 <img src="https://user-images.githubusercontent.com/109835921/239250862-e49c962e-7b6f-430c-875a-32315ba36f3f.png" width="100%"/>
 <br/>
